@@ -1,5 +1,9 @@
 # Changelog
 
+# v24.36.0
+
+- Add the option to specify conditionals for minimum and maximum expected counts of files matching regex to local, sftp and ssh sources
+
 # v24.18.0
 
 - Add the option to sign encrypted files using a private key, by setting `"sign": true`, and supplying the `private_key` property.
